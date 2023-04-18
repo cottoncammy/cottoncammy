@@ -1,6 +1,6 @@
 hello, i am cottoncammy, a JVM programmer who enjoys Kotlin, reactive programming, and server-side development, particularly in the cloud-native enterprise Java ecosystem (i :heart: Quarkus). i consider myself to be very knowledgeable in the lands of Java, Maven, and Jakarata EE specs. 
 
-* can write a Python scripts and Dockerfiles with Google's help
+* can write Python scripts and Dockerfiles with Google's help
 * knows what microservices and message brokers are
 
 ### right now,
