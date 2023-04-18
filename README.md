@@ -14,8 +14,6 @@ hello, i am cottoncammy, a JVM programmer who enjoys Kotlin, reactive programmin
 * Gradle
 * Kotlin Coroutines
 * Kotlin Multiplatform
-* Ktor
-* Fritz2
 
 ### eventually, i want to learn...
 
@@ -29,7 +27,6 @@ hello, i am cottoncammy, a JVM programmer who enjoys Kotlin, reactive programmin
 * Kafka
 * Vulkan
 * Jetpack Compose
-* Flutter
 
 **these paradigms...**
 * game development
