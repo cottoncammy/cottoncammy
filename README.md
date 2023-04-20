@@ -2,6 +2,7 @@ hello, i am cottoncammy, a JVM programmer who enjoys Kotlin, reactive programmin
 
 * can write Python scripts and Dockerfiles with Google's help
 * knows what microservices and message brokers are
+* very ok at TypeScript
 
 ### right now,
 
@@ -25,6 +26,7 @@ hello, i am cottoncammy, a JVM programmer who enjoys Kotlin, reactive programmin
 **these technologies...**
 * Spring Boot
 * Kafka
+* React Native
 * Vulkan
 * Jetpack Compose
 
