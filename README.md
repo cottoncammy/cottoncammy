@@ -20,6 +20,7 @@ hello, i am cottoncammy, a JVM programmer who enjoys Kotlin, reactive programmin
 
 **these languages...**
 * Rust
+* OCaml
 * Zig
 * Swift
 
